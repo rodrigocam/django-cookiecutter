@@ -1,0 +1,23 @@
+# Django
+django ~= 2.0
+
+# Environ
+django-environ==0.4.4
+
+# Gunicorn
+gunicorn==19.8.1
+
+# Whitenoise
+whitenoise==3.3.1
+
+# Time zones support
+pytz ~= 2017.2
+
+# Postgres engine
+psycopg2-binary
+
+# Jinja2 templates
+Jinja2==2.10
+
+# Cors
+django-cors-headers==2.2.0
